@@ -19,7 +19,7 @@ A **segunda etapa** (em desenvolvimento) implementará a **interface gráfica co
 ✅ Implementar todas as operações CRUD (Create, Read, Update, Delete)\
 ✅ Garantir integridade relacional entre as tabelas\
 ✅ Integrar com Python de forma modular e reutilizável\
-✅ Deixar a estrutura pronta para futura interface PyQt6\
+✅ Deixar a estrutura pronta para futura interface Tkinter e CustomTkinter
 
 ---
 
