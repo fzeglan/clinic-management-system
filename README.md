@@ -1,4 +1,6 @@
 # 🩺 Sistema Clínico
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 > Projeto de integração entre **Python** e **PostgreSQL**, com estrutura modular e operações completas de CRUD.
 
